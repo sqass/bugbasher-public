@@ -11,11 +11,8 @@ Whether you're bug bashing, validating accessibility, or verifying link integrit
 🔹 **Context Menu Test Data**  
 Right-click anywhere to inject smart test data into input fields—perfect for quick form testing.
 
-🔹 **Accessibility Scanner**  
-Run a quick accessibility check to identify common WCAG issues on the fly.
-
 🔹 **Broken Link Checker**  
-Highlight and inspect broken or redirected links across any page.
+Find links that are not returning a 200 OK response to the browser.
 
 🔹 **Page Diagnostics (BASH!)**  
 Capture performance stats, console logs, DOM structure insights, and more—all in one pass.
@@ -30,7 +27,7 @@ Export page metadata and test results to share with your team.
 
 ## 🧩 Get It on Chrome Web Store
 
-👉 [Install Bugbasher from the Chrome Web Store](https://chrome.google.com/webstore/detail/bugbasher/)
+👉 [Install Bugbasher from the Chrome Web Store](https://bugbasher.io)
 
 ---
 
